@@ -1,0 +1,6 @@
+{
+  "name": "محطة ماء السعادة - نظام الإدارة",
+  "description": "نظام سطح مكتب متكامل لإدارة محطة ماء السعادة، إضافة المشتركين، التعبئة اليومية، الحسابات والصندوق بتصميم ويندوز الكلاسيكي الغاطس.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

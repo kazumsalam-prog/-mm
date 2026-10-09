@@ -1,0 +1,11 @@
+{
+  "subscribers": [],
+  "waitingOrders": [],
+  "dailyFillings": [],
+  "transactions": [],
+  "driverPhones": {},
+  "driverEvents": [],
+  "outgoingOrdersForNativeApp": [],
+  "csharpCppLogs": [],
+  "version": 100
+}
